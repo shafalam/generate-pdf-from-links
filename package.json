@@ -1,0 +1,15 @@
+{
+  "name": "generate-pdf-from-links",
+  "version": "0.5.0",
+  "description": "A webpage might have multiple links. this script will go to that webapge, go to each link and generate pdfs. ",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shafalam",
+  "license": "ISC"
+}
